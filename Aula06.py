@@ -1,11 +1,11 @@
 # #Exercicio
 # 1 - Vamos modelar uma familia com Pai, Mãe, filhos;
-class Pessoa():
-    def __init__(self,nome,contato, email, e):
-        
-        
-        
+print("Hello World")
+i = 2
 
+for i in range(3):
+    print(i)
+    print
 # 2 - Todos devem herdar a classe Pessoa;
 # 3 - Na clase Pai e Mãe, crie um método que irá adicionar objetos da classe filhos;
 # 4 - Na classe Filho, crie um método que irá adicionar objetos Pai e Mãe;
